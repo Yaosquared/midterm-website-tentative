@@ -1,0 +1,16 @@
+.container {
+    background: url(/main-bg.png) no-repeat center;
+    position: fixed;
+    width: 100vw;
+    height: 12vh;
+    background-size: cover;
+    z-index: 2;
+    overflow: hidden;
+}
+
+.actions {
+    margin-left: 540px;
+    margin-top: 10px;
+    display: flex;
+    gap: 30px;
+}
